@@ -41,7 +41,7 @@ def main ():
 
 		''')
 
-	phoneNum = input ('Номер телефона жертвы: ')
+	phoneNum = 84232692339 ('Номер телефона жертвы: ')
 	name = input ('Имя жертвы: ')
 
 	if name.strip() == '':
